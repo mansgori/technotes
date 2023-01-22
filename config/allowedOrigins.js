@@ -3,7 +3,7 @@
 // not allowed to login
 
 const allowedOrigins = [
-    'https://technotes-ms0z.onrender.com'
+    'https://technotes-ms0z.onrender.com/login'
 ]
 
 module.exports = allowedOrigins
